@@ -10,9 +10,21 @@ pnpm add vite -D
 
 ```bash
 npx vite
+npx vite build
+npx vite preview
 ```
 
 
+
+## 脚手架
+
+
+
+```bash
+pnpm create vite
+```
+
+## Css
 
 > 内部已经配置好了
 
@@ -34,7 +46,11 @@ pnpm add @vitejs/plugin-vue -D
 
 
 
+## React
 
+```bash
+pnpm add react react-dom
+```
 
 ## Ref
 
